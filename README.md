@@ -98,4 +98,4 @@ Please fork the repo, submit a pull request, or open an issue!
 ---
 
 ## 📜 License
-MIT
+[MIT](https://github.com/angrysky56/Simulation-Framework-Prompting-and-Control-System/blob/main/LICENSE)
